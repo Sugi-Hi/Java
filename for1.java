@@ -1,7 +1,7 @@
 public class for1{
   // public 
 
-  public static void main(String[] args){
+  public static void main(String[] says){
     String[] capitals = {"ハノイ","東京","バンコク","デリー","ジャカルタ"};
     // String[] capitals = new String[50];
     // capitals[0]="ハノイ";
