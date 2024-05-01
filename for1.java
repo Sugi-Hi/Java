@@ -1,5 +1,4 @@
 public class for1{
-  // public 
 
   public static void main(String[] says){
     String[] capitals = {"ハノイ","東京","バンコク","デリー","ジャカルタ"};
