@@ -12,6 +12,8 @@ public class string1{
     str = str.substring(0, index);
 
     System.out.println("大文字："+str.toUpperCase());
-    System.out.println("用　語："+ str +"⇒単語の抜粋："+ index1 + "番目～" + index2 + "番目～" + index3 + "番目" +"、末尾番号："+index);
+    System.out.println("小文字："+str.toDownerCase());
+
+    System.out.println("用　語："+ str +"⇒単語の抜粋："+ index1 + "番目～、" + index2 + "番目～、" + index3 + "番目、" +"末尾番号："+index);
   }
 }
