@@ -3,7 +3,7 @@ public class iffor2{
     int[] correct = {4,1,2,3,1,2,3,2,4,1};
     int[] answer = {1,2,3,3,2,4,3,2,1,4};
 
-    System.out.println("あなたのご回答の得点結果です。");
+    System.out.print("あなたのご回答の得点結果です。\n");
     int score = 0;
     for(int i=0; i<correct.length; i++){
       if(correct[i]==answer[i]){
