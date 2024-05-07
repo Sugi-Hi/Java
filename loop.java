@@ -1,6 +1,6 @@
 public class loop{
   public static void main(String[] args){
-    int i;
+    short i;
     int sum = 0;
     long mul = 1;
 
