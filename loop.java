@@ -1,5 +1,5 @@
 public class loop{
-  public static void main(String[] args){
+  public static void main(String[] numbers){
     short i;
     int sum = 0;
     long mul = 1;
