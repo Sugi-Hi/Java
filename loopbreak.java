@@ -10,6 +10,6 @@ public class loopbreak{
       }
     }
 
-    System.out.println("8を発見 " + (i+1));
+    System.out.println("見つけたい8を発見 " + (i+1) + "番目にありました！");
   }
 }
