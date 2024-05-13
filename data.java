@@ -1,5 +1,5 @@
 public class data{
-  public static void main(String[] args){
+  public static void main(String[] data){
     Integer iInt = new Integer(100);
     Double dDouble = new Double(100.123);
     Float dFloat = new Float(iInt);
