@@ -1,7 +1,7 @@
 public class array{
   public int[] intArray={ 1, 200, -1, 50, 33 , -15};
 
-  public static void main(String[] args){
+  public static void main(String[] arrays){
     // int[] intArray = new int[6];  2回宣言エラー
 
     int[] intArray={ 1, 200, -1, 50, 33 , -15};
