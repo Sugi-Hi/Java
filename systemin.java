@@ -1,5 +1,5 @@
 public class systemin{
-  public static void main(String[] args)
+  public static void main(String[] inputs)
     throws Exception
     {
       byte[] b = new byte[128];

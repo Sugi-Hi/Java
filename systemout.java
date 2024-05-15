@@ -1,5 +1,5 @@
 public class systemout{
-  public static void main(String[] args){
+  public static void main(String[] outputs){
     System.out.println("Q1:ベトナム");
     System.out.println("1:東京");
     System.out.println("2:ハノイ");
