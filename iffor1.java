@@ -1,5 +1,5 @@
 public class iffor1{
-  public static void main(String[] args)
+  public static void main(String[] conditions)
     throws Exception
     {
       int[] correct = {4,1,2,3,1,2,3,2,4,1};

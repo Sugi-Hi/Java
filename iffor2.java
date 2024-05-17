@@ -1,5 +1,5 @@
 public class iffor2{
-  public static void main(String[] args){
+  public static void main(String[] conditions){
     int[] correct = {4,1,2,3,1,2,3,2,4,1};
     int[] answer = {1,2,3,3,2,4,3,2,1,4};
 
