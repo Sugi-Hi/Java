@@ -1,5 +1,5 @@
 public class for2{
-  public static void main(String[] args){
+  public static void main(String[] mutiples){
 
     outer:
     for(int i=0;i<50;i++){
